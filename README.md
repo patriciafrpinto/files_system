@@ -1,5 +1,12 @@
 # Files System
 
+
+### To run:
+
+```
+$ java -jar path_of_the_jar_file
+```
+
 ### Examples of commands:
 
 ##### Change directory:
