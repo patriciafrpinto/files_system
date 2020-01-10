@@ -10,6 +10,7 @@ $ java -jar path_of_the_jar_file
 ### Examples of commands:
 
 ##### Change directory:
+(user has to have read permissions)
 ```
 $ cd 
 $ cd .
